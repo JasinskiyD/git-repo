@@ -1,5 +1,3 @@
-print("Hello, World!");
-
 <meta charset="UTF-8">
     <title>FrontEnd_JavaScript</title>
     <link href="css/style.css" type="text/css" rel="stylesheet" />
