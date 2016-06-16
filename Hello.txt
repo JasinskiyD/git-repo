@@ -1,1 +1,7 @@
 print("Hello, World!");
+
+<meta charset="UTF-8">
+    <title>FrontEnd_JavaScript</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
+    <link  rel="stylesheet" type="text/css" href="css/Trebuchet-MS-Bold__.css">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/png">
